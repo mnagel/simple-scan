@@ -1,7 +1,0 @@
-src/book.c
-src/book-view.c
-src/page.c
-src/page-view.c
-src/scanner.c
-src/simple-scan.c
-src/ui.c
